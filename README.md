@@ -1,2 +1,2 @@
 # owlCommunity
-猫头鹰社区
+This is a repository for owlCommunity.
